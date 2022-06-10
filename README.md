@@ -1,4 +1,4 @@
-# **Ride Sharing in Citites Analysis**
+# **Ride Sharing Analysis**
 ## Overview of Analysis
 The purpose of this analysis is to dig deeper into the ridesharing metrics of rural, suburban, and urban cities. We will be looking at the volume of rides, drivers, and fares in these types of cities; and average fares for riders and drivers. 
 
